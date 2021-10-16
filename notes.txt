@@ -1,0 +1,4 @@
+Phiên bản 1.0.1:
+- Hỗ trợ đa thành viên đa khu vực kiểm tra
+Phiên bản 1.0.0:
+- Khởi tạo dự án
