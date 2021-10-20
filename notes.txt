@@ -1,3 +1,5 @@
+Phiên bản 1.0.2:
+- Cập nhập hoàn thiện và fix lỗi ở màn hình Chưa phù hợp chi tiết.
 Phiên bản 1.0.1:
 - Hỗ trợ đa thành viên đa khu vực kiểm tra
 Phiên bản 1.0.0:
